@@ -75,7 +75,7 @@ We believe in using the right tool for the job:
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
 
 * **Web:** [kajotte-studio.com](https://kajotte-studio.com)
-* **Email:** [office@kajotte-studio.com](mailto:help@kajotte-studio.com)
+* **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 * **Location:** Based in Poland, working globally.
 
 ---
