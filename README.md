@@ -69,7 +69,7 @@ In this repository (and others on this profile), you will find:
 We believe in using the right tool for the job:
 * **Web:** HTML5, CSS3 (Grid/Flexbox), JavaScript, React.
 * **Scripting:** Python 3.9+.
-* **Creative:** Adobe Creative Cloud, DaVinci Resolve, Professional DAW systems.
+* **Creative:** Professional DAW systems.
 
 ## 04 / Connect with Us
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
