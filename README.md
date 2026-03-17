@@ -19,6 +19,7 @@
 
 ---
 
+### "Precision in every line. Emotion in every frame."
 <p align="center">
   <a href="https://kajotte-studio.com/">Home page</a> / 
   <a href="mailto:help@kajotte-studio.com">Email</a>
@@ -66,11 +67,6 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 ## 🌐 Connectivity
 - **Official Portal:** [Kajotte-studio.com](https://Kajotte-studio.com)
 - **Primary Focus:** Minimalism | Performance | Education
-
----
-
-### "Precision in every line. Emotion in every frame."
-[Visit Official Website →](https://kajotte-studio.com)
 
 ---
 
