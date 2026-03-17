@@ -28,22 +28,44 @@
 
 </div>
 
-- 👋 Hi, I’m @Kajotte visit my &#8544;, &#8545; & &#8546; Studio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kajotte Studio | Digital Arts, Education & Technical Minimalism
 
-<!---
-Kajotte-studio/Kajotte-studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://kajotte-studio.github.io/
+A professional hub dedicated to minimalist web architecture, Python-based automation, and technical education. Kajotte Studio operates on the principle of "Pure Code," prioritizing efficiency, clarity, and the sharing of digital knowledge.
 
-# ✦ Kajotte Studio
-**Creative Engineering & Digital Arts since 2020**
+---
 
-Welcome to the official GitHub hub for [kajotte-studio.com](https://kajotte-studio.com). We bridge the gap between clean code and artistic vision.
+## &#8505;&#65039; Digital Education & Mission
+The project is committed to enhancing the digital space by providing educational resources and transparent technical solutions.
+
+### 🎓 Educational Focus:
+- **Programming Literacy:** Encouraging a deep understanding of Python through practical scripts and clear documentation.
+- **Architectural Awareness:** Teaching the value of pure HTML/CSS as a sustainable, high-performance alternative to bloated CMS systems.
+- **Digital Best Practices:** Promoting the implementation of security standards like Content Security Policy (CSP) and efficient asset management.
+- **Knowledge Sharing:** Bridging the gap between complex automation and user-friendly digital experiences.
+
+---
+
+## &#8505;&#65039; Edukacja cyfrowa i misja
+Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dostarczanie zasobów edukacyjnych oraz transparentnych rozwiązań technicznych.
+
+### 🎓 Główne obszary edukacyjne:
+- **Edukacja programistyczna:** Wspieranie zrozumienia języka Python poprzez praktyczne skrypty i przejrzystą dokumentację.
+- **Świadomość architektoniczna:** Ukazywanie wartości czystego HTML/CSS jako wydajnej i zrównoważonej alternatywy dla ciężkich systemów CMS.
+- **Standardy cyfrowe:** Promowanie wdrażania standardów bezpieczeństwa, takich jak Content Security Policy (CSP), oraz efektywnego zarządzania zasobami.
+- **Dzielenie się wiedzą:** Łączenie złożonej automatyzacji z przyjaznymi dla użytkownika doświadczeniami cyfrowymi.
+
+---
+
+## 🛠 Technical Foundation
+- **Languages:** Python, PHP, HTML, CSS, JavaScript
+- **Infrastructure:** GitHub Pages, High-Res Assets
+- **Principles:** No CMS / No WordPress / Clean Architecture / CSP
+
+---
+
+## 🌐 Connectivity
+- **Official Portal:** [Kajotte-studio.com](https://Kajotte-studio.com)
+- **Primary Focus:** Minimalism | Performance | Education
 
 ---
 
@@ -52,27 +74,7 @@ Welcome to the official GitHub hub for [kajotte-studio.com](https://kajotte-stud
 
 ---
 
-## 01 / Our Ecosystem
-Kajotte Studio is a multidisciplinary creative house specializing in:
-
-* **💻 Software Engineering:** Bespoke web structures, Python automation, and modern frontend development.
-* **📸 Visual Arts:** Professional photography and high-end cinematography.
-* **🎵 Sound Design:** Music production and professional audio engineering.
-* **🎬 Video Production:** Storytelling through dynamic motion and professional editing.
-
-## 02 / Open Source & Resources
-In this repository (and others on this profile), you will find:
-* **Bespoke HTML/CSS Templates:** Minimalist designs focused on typography and motion.
-* **Python Utilities:** Scripts for automation and creative workflows.
-* **Documentation:** Technical guides for our shared resources.
-
-## 03 / Tech Stack & Tools
-We believe in using the right tool for the job:
-* **Web:** HTML5, CSS3 (Grid/Flexbox), JavaScript, React.
-* **Scripting:** Python 3.9+.
-* **Creative:** Professional DAW systems.
-
-## 04 / Connect with Us
+## Connect with Us
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
 
 * **Web:** [kajotte-studio.com](https://kajotte-studio.com)
