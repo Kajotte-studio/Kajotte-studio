@@ -70,7 +70,7 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 
 ---
 
-## Connect with Us
+## &#128231; Connect with Us
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
 
 * **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
