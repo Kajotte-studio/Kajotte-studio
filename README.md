@@ -58,13 +58,17 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 - **Infrastructure:** GitHub Pages, High-Res Assets
 - **Principles:** No CMS / No WordPress / Clean Architecture / CSP
 
+### Documentation
+* **Technical Documentation:** [kajotte-studio.com/docs](https://kajotte-studio.com/docs)
+* **Full Documentation:** [Technical & Legal Ecosystem](https://kajotte-studio.com/docs0_en.html)
+
 ---
 
 ## 🌐 Connectivity
 - **Official Portal:** [Kajotte-studio.com](https://Kajotte-studio.com)
 - **Primary Focus:** Minimalism | Performance | Education
 
-### 🔗 Our Network
+### Our Network
 
 1. [GitHub Gallery](https://kajotte-studio.github.io/index_en.html) – High-resolution assets space, specialized in professional photography.
 2. [Poland Hub](https://host447933.xce.pl/index0_en.html) – Central hub for Polish resources and local projects.
@@ -78,7 +82,7 @@ We are always open to collaboration on innovative projects that require both tec
 * **Email:** [support@kajotte-studio.com](mailto:support@kajotte-studio.com)
 * **Location:** Based in Poland, working globally.
 
-### &#127384; Help
+### Help
 **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 
 ---
