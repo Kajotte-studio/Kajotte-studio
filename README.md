@@ -79,7 +79,7 @@ We are always open to collaboration on innovative projects that require both tec
 * **Location:** Based in Poland, working globally.
 
 ### Help
-* **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
+**Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 
 ---
 
