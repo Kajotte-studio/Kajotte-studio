@@ -79,8 +79,6 @@ We are always open to collaboration on innovative projects that require both tec
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="MIT License" />
-  <img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
   <img src="https://img.shields.io/badge/Established-2020-blue?style=flat-square" alt="Established 2020" />
   <br />
   <sub>© Kajotte Studio. Built with intention and passion.</sub>
