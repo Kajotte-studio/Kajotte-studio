@@ -74,8 +74,6 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 2. [Poland Hub](https://host447933.xce.pl/index0_en.html) – Central hub for Polish resources and local projects.
 3. [Educational Portal](https://kajotte-studio.com/index_en.html) – Advanced educational ecosystem.
 
----
-
 ### Support the project
 If you find this project useful, you can support its further development:
 - [Sponsor via GitHub](https://github.com/sponsors/Kajotte-studio) (Preferred for GitHub users)
