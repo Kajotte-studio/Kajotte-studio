@@ -12,12 +12,8 @@
   Driven by the harmony of grid-based layouts, intentional typography, and clean, scalable code.
 </p>
 
----
-
 ### The Practice
 `Minimalism` • `Fluidity` • `Scalability` • `Precision` • `System Architecture`
-
----
 
 ### "Precision in every line. Emotion in every frame."
 <p align="center">
@@ -67,6 +63,12 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 ## 🌐 Connectivity
 - **Official Portal:** [Kajotte-studio.com](https://Kajotte-studio.com)
 - **Primary Focus:** Minimalism | Performance | Education
+
+### 🔗 Our Network
+
+1. [GitHub Gallery](https://kajotte-studio.github.io/index_en.html) – High-resolution assets space, specialized in professional photography.
+2. [Poland Hub](https://host447933.xce.pl/index_en.html) – Central hub for Polish resources and local community projects.
+3. [Educational Portal](https://kajotte-studio.com/index_en.html) – Advanced educational ecosystem focusing on Python and automation.
 
 ---
 
