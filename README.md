@@ -75,8 +75,11 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 ## &#128231; Connect with Us
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
 
-* **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
+* **Email:** [support@kajotte-studio.com](mailto:support@kajotte-studio.com)
 * **Location:** Based in Poland, working globally.
+
+# Help
+* **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 
 ---
 
