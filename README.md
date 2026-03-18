@@ -67,7 +67,7 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 ### 🔗 Our Network
 
 1. [GitHub Gallery](https://kajotte-studio.github.io/index_en.html) – High-resolution assets space, specialized in professional photography.
-2. [Poland Hub](https://host447933.xce.pl/index_en.html) – Central hub for Polish resources and local community projects.
+2. [Poland Hub](https://host447933.xce.pl/index0_en.html) – Central hub for Polish resources and local community projects.
 3. [Educational Portal](https://kajotte-studio.com/index_en.html) – Advanced educational ecosystem focusing on Python and automation.
 
 ---
