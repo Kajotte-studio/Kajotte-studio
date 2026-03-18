@@ -1,4 +1,4 @@
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Kajotte-studio)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
 <div align="center">
 
 <p align="center">
@@ -73,6 +73,13 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 1. [GitHub Gallery](https://kajotte-studio.github.io/index_en.html) – High-resolution assets space, specialized in professional photography.
 2. [Poland Hub](https://host447933.xce.pl/index0_en.html) – Central hub for Polish resources and local projects.
 3. [Educational Portal](https://kajotte-studio.com/index_en.html) – Advanced educational ecosystem.
+
+---
+
+### Support the project
+If you find this project useful, you can support its further development:
+- [Sponsor via GitHub](https://github.com/sponsors/Kajotte-studio) (Preferred for GitHub users)
+- [Support via Ko-fi / Stripe](https://ko-fi.com/kajottestudio) (No GitHub account required)
 
 ---
 
