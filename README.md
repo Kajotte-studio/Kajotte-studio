@@ -90,8 +90,6 @@ We are always open to collaboration on innovative projects that require both tec
 ### Help
 **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/Established-2020-blue?style=flat-square" alt="Established 2020" />
   <br />
