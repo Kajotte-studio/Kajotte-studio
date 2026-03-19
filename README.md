@@ -12,8 +12,8 @@
   Driven by the harmony of grid-based layouts, intentional typography, and clean, scalable code.
 </p>
 
-### The Practice
-`Minimalism` • `Fluidity` • `Scalability` • `Precision` • `System Architecture`
+### The practice
+`Minimalism` • `Fluidity` • `Scalability` • `Precision` • `System architecture`
 
 ### "Precision in every line. Emotion in every frame."
 <p align="center">
@@ -25,20 +25,20 @@
 
 </div>
 
-# Kajotte Studio | Digital Arts, Education & Technical Minimalism
+# Kajotte Studio | Digital arts, education & technical minimalism
 
 A professional hub dedicated to minimalist web architecture, Python-based automation, and technical education. Kajotte Studio operates on the principle of "Pure Code," prioritizing efficiency, clarity, and the sharing of digital knowledge.
 
 ---
 
-## &#8505;&#65039; Digital Education & Mission
+## &#8505;&#65039; Digital education & mission
 The project is committed to enhancing the digital space by providing educational resources and transparent technical solutions.
 
-### 🎓 Educational Focus:
-- **Programming Literacy:** Encouraging a deep understanding of Python through practical scripts and clear documentation.
-- **Architectural Awareness:** Teaching the value of pure HTML/CSS as a sustainable, high-performance alternative to bloated CMS systems.
-- **Digital Best Practices:** Promoting the implementation of security standards like Content Security Policy (CSP) and efficient asset management.
-- **Knowledge Sharing:** Bridging the gap between complex automation and user-friendly digital experiences.
+### 🎓 Educational focus:
+- **Programming literacy:** Encouraging a deep understanding of Python through practical scripts and clear documentation.
+- **Architectural awareness:** Teaching the value of pure HTML/CSS as a sustainable, high-performance alternative to bloated CMS systems.
+- **Digital best practices:** Promoting the implementation of security standards like Content Security Policy (CSP) and efficient asset management.
+- **Knowledge sharing:** Bridging the gap between complex automation and user-friendly digital experiences.
 
 ---
 
@@ -53,22 +53,22 @@ Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dosta
 
 ---
 
-## 🛠 Technical Foundation
+## 🛠 Technical foundation
 - **Languages:** Python, PHP, HTML, CSS, JavaScript
 - **Infrastructure:** GitHub Pages, High-Res Assets
 - **Principles:** No CMS / No WordPress / Clean Architecture / CSP
 
 ### Documentation
-* **Technical Documentation:** [kajotte-studio.com/docs](https://kajotte-studio.com/docs)
-* **Full Documentation:** [Technical & Legal Ecosystem](https://kajotte-studio.com/docs0_en.html)
+* **Technical documentation:** [kajotte-studio.com/docs](https://kajotte-studio.com/docs)
+* **Full documentation:** [Technical & Legal Ecosystem](https://kajotte-studio.com/docs0_en.html)
 
 ---
 
 ## 🌐 Connectivity
-- **Official Portal:** [Kajotte-studio.com](https://Kajotte-studio.com)
-- **Primary Focus:** Minimalism | Performance | Education
+- **Official portal:** [Kajotte-studio.com](https://Kajotte-studio.com)
+- **Primary focus:** Minimalism | Performance | Education
 
-### Our Network
+### Our network
 
 1. [GitHub Gallery](https://kajotte-studio.github.io/index_en.html) – High-resolution assets space, specialized in professional photography.
 2. [Poland Hub](https://host447933.xce.pl/index0_en.html) – Central hub for Polish resources and local projects.
@@ -81,7 +81,7 @@ If you find this project useful, you can support its further development:
 
 ---
 
-## &#128231; Connect with Us
+## &#128231; Connect with us
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
 
 * **Email:** [support@kajotte-studio.com](mailto:support@kajotte-studio.com)
