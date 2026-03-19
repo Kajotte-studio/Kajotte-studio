@@ -31,6 +31,12 @@ A professional hub dedicated to minimalist web architecture, Python-based automa
 
 ---
 
+### Latest Frameworks & Releases
+
+[![Python-datetime](https://img.shields.io/github/v/release/Kajotte-studio/Python-datetime?label=Python%20Datetime&color=blue&style=flat-square)](https://github.com/Kajotte-studio/Python-datetime/releases)
+
+---
+
 ## &#8505;&#65039; Digital education & mission
 The project is committed to enhancing the digital space by providing educational resources and transparent technical solutions.
 
