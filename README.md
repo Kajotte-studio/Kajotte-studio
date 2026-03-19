@@ -48,17 +48,6 @@ The project is committed to enhancing the digital space by providing educational
 
 ---
 
-## &#8505;&#65039; Edukacja cyfrowa i misja
-Projekt angażuje się w podnoszenie jakości przestrzeni cyfrowej poprzez dostarczanie zasobów edukacyjnych oraz transparentnych rozwiązań technicznych.
-
-### 🎓 Główne obszary edukacyjne:
-- **Edukacja programistyczna:** Wspieranie zrozumienia języka Python poprzez praktyczne skrypty i przejrzystą dokumentację.
-- **Świadomość architektoniczna:** Ukazywanie wartości czystego HTML/CSS jako wydajnej i zrównoważonej alternatywy dla ciężkich systemów CMS.
-- **Standardy cyfrowe:** Promowanie wdrażania standardów bezpieczeństwa, takich jak Content Security Policy (CSP), oraz efektywnego zarządzania zasobami.
-- **Dzielenie się wiedzą:** Łączenie złożonej automatyzacji z przyjaznymi dla użytkownika doświadczeniami cyfrowymi.
-
----
-
 ## 🛠 Technical foundation
 - **Languages:** Python, PHP, HTML, CSS, JavaScript
 - **Infrastructure:** GitHub Pages, High-Res Assets
