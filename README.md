@@ -80,7 +80,7 @@ If you find this project useful, you can support its further development:
 ## &#128231; Connect with us
 We are always open to collaboration on innovative projects that require both technical skill and creative flair.
 
-* **Email:** [support@kajotte-studio.com](mailto:support@kajotte-studio.com)
+* **Email:** [ceo@kajotte-studio.com](mailto:ceo@kajotte-studio.com)
 * **Location:** Based in Poland, working globally.
 
 ### Help
