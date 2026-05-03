@@ -34,7 +34,7 @@ A professional hub dedicated to minimalist web architecture, Python-based automa
 ### Latest frameworks & releases
 
 [![Python-datetime](https://img.shields.io/github/v/release/Kajotte-studio/Python-datetime?label=Python%20Datetime&color=blue&style=flat-square)](https://github.com/Kajotte-studio/Python-datetime/releases)
-[![Python-datetime](https://img.shields.io/github/v/release/Kajotte-studio/Python-colors?label=Python%20Colors&color=blue&style=flat-square)](https://github.com/Kajotte-studio/Python-colors/releases)
+[![Python-colors](https://img.shields.io/github/v/release/Kajotte-studio/Python-colors?label=Python%20Colors&color=blue&style=flat-square)](https://github.com/Kajotte-studio/Python-colors/releases)
 
 ---
 
